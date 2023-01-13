@@ -1,0 +1,5 @@
+1,Nha Gia Kim,Paulo,tieu thuyet,45,150000.0
+2,Nguoi Nam Cham,Jack,van hoc,63,120000.0
+3,Khuyen Hoc,Yukichi,xa hoi,86,95000.0
+4,The Gioi Phang,Thomas,xa hoi,492,80000.0
+5,Hoang Tu Be,Vinh,van hoc,90,55000.0
